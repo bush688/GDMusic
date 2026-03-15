@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GD Music</string>
+    <string name="now_playing">正在播放</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="no_network">网络连接失败</string>
+    <string name="retry">重新连接</string>
+</resources>
